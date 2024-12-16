@@ -1,30 +1,18 @@
 class Solution {
-    vector<int> ns;
-
 public:
-    int integerToDigits(int num) {
-        vector<int> digits;
-        int digitsSum;
-        while (num > 0) {
-            int digit = num % 10;
-            int el = digit * digit;
-            digits.push_back(el);
-            digitsSum += el;
-            num /= 10;
+    bool isHappy(int n) {
+        std::unordered_set<int> seen;
+
+        while (n != 1 && seen.insert(n).second) {
+            int sum = 0;
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
+            }
+            n = sum;
         }
 
-        return digitsSum;
-    }
-
-    bool isHappy(int n) {
-        auto it = std::find(ns.begin(), ns.end(), n);
-        if (n == 1)
-            return true;
-        if (it != ns.end())
-            return false;
-        ns.push_back(n);
-        int digitsSum = integerToDigits(n);
-
-        return isHappy(digitsSum);
+        return n == 1;
     }
 };
