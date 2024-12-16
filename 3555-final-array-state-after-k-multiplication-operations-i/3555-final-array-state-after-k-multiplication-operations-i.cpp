@@ -1,17 +1,23 @@
+
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
+        // Min-heap to store elements and their indices
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>>
+            minHeap;
+
+        for (int i = 0; i < nums.size(); i++) {
+            minHeap.push({nums[i], i});
+        }
+
         while (k--) {
-            int small_index = 0, smallest = nums[0];
+            // Extract the minimum element
+            auto [minValue, index] = minHeap.top();
+            minHeap.pop();
 
-            for (int i = 0; i < nums.size(); i++) {
-                if (smallest > nums[i]) {
-                    smallest = nums[i];
-                    small_index = i;
-                }
-            }
-
-            nums[small_index] *= multiplier;
+            // Update the element in the array and heap
+            nums[index] *= multiplier;
+            minHeap.push({nums[index], index});
         }
 
         return nums;
