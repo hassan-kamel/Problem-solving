@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        std::unordered_set<int> seen;
+        unordered_set<int> seen;
 
         while (n != 1 && seen.insert(n).second) {
             int sum = 0;
