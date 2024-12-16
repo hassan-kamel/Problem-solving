@@ -17,18 +17,6 @@ public:
     }
 
     bool isHappy(int n) {
-        if (n == 1)
-            return true;
-
-        int digitsSum = integerToDigits(n);
-
-        return isHappy_2(digitsSum);
-    }
-
-    bool isHappy_2(int n) {
-        // for (int num : ns) {
-        //     cout << num << " ";
-        // }
         auto it = std::find(ns.begin(), ns.end(), n);
         if (n == 1)
             return true;
@@ -37,6 +25,6 @@ public:
         ns.push_back(n);
         int digitsSum = integerToDigits(n);
 
-        return isHappy_2(digitsSum);
+        return isHappy(digitsSum);
     }
 };
