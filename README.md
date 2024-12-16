@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
