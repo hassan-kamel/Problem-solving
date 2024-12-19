@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/hassan-kamel/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hassan-kamel/Problem-solving/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -72,8 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
