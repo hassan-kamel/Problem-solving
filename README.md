@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [0575-distribute-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/0575-distribute-candies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
+| [1127-last-stone-weight](https://github.com/hassan-kamel/Problem-solving/tree/master/1127-last-stone-weight) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/hassan-kamel/Problem-solving/tree/master/1127-last-stone-weight) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
