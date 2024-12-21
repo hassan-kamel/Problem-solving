@@ -5,9 +5,17 @@ public:
         if (str1 + str2 != str2 + str1) {
             return "";
         }
+        int a = str1.size();
+        int b = str2.size();
 
-        // Get the GCD of the two lengths.
-        int gcdLength = gcd(str1.size(), str2.size());
-        return str1.substr(0, gcdLength);
+        // loop (divide) until you find the
+        // highest common factor (length of string)
+        // like we did in maths
+        while (b) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return str1.substr(0, a);
     }
 };
