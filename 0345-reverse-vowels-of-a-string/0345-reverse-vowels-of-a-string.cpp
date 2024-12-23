@@ -1,14 +1,14 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        int len = s.size(), i = 0, j = len - 1;
-        string vowels = "aeiouAEIOU";
-        while (i < j && i <= len && j >= 0) {
-            if (vowels.find(s[i]) == string::npos)
+        unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u',
+                                      'A', 'E', 'I', 'O', 'U'};
+        int i = 0, j = s.size() - 1;
+        while (i < j) {
+            if (vowels.find(s[i]) == vowels.end())
                 i++;
-            else if (vowels.find(s[j]) == string::npos)
+            else if (vowels.find(s[j]) == vowels.end())
                 j--;
-
             else {
                 swap(s[i], s[j]);
                 i++;
