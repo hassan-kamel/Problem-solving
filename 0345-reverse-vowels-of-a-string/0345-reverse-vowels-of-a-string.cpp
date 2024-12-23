@@ -1,27 +1,20 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        vector<int> indices;
-        vector<char> vowels;
-        unordered_set<char> vowelSet = {'a', 'e', 'i', 'o', 'u',
-                                        'A', 'E', 'I', 'O', 'U'};
+        int len = s.size(), i = 0, j = len - 1;
+        string vowels = "aeiouAEIOU";
+        while (i < j && i <= len && j >= 0) {
+            if (vowels.find(s[i]) == string::npos)
+                i++;
+            else if (vowels.find(s[j]) == string::npos)
+                j--;
 
-        // Collect vowels and their positions
-        for (int i = 0; i < s.size(); i++) {
-            if (vowelSet.find(s[i]) != vowelSet.end()) {
-                indices.push_back(i);
-                vowels.push_back(s[i]);
+            else {
+                swap(s[i], s[j]);
+                i++;
+                j--;
             }
         }
-
-        // Reverse the vowels
-        reverse(vowels.begin(), vowels.end());
-
-        // Replace in original string
-        for (int k = 0; k < indices.size(); k++) {
-            s[indices[k]] = vowels[k];
-        }
-
         return s;
     }
 };
