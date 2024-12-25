@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hassan-kamel/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
+| [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/0575-distribute-candies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1127-last-stone-weight](https://github.com/hassan-kamel/Problem-solving/tree/master/1127-last-stone-weight) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/hassan-kamel/Problem-solving/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Heap (Priority Queue)
 |  |
