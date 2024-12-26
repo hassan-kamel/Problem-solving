@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hassan-kamel/Problem-solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-kamel/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hassan-kamel/Problem-solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
