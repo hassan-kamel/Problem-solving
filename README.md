@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/0575-distribute-candies) |
+| [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1127-last-stone-weight](https://github.com/hassan-kamel/Problem-solving/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
