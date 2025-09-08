@@ -13,15 +13,9 @@
  */
 
 function searchBST(root: TreeNode | null, val: number): TreeNode | null {
-    if (root == null || root === undefined) return null;
+    if (!root) return null;
+    if (root.val === val) return root;
 
-    if (root.val == val) return root;
+    return root.val > val ? searchBST(root.left, val) : searchBST(root.right, val);
 
-    const left = searchBST(root.left, val);
-    const right = searchBST(root.right, val);
-
-    if (left && left.val == val) return left;
-    if (right && right.val == val) return right;
-
-    return null;
 };
