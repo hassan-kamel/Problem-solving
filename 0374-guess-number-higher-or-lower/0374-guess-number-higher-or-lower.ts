@@ -10,13 +10,12 @@
 
 function guessNumber(n: number): number {
     let low = 0;
-    let high = n;
 
-    while (low <= high) {
-        const mid = low + Math.floor((high - low) / 2);
+    while (low <= n) {
+        const mid = low + Math.floor((n - low) / 2);
 
         if (guess(mid) === -1) {
-            high = mid - 1;
+            n = mid - 1;
         } else if (guess(mid) === 1) {
             low = mid + 1;
         } else if (guess(mid) === 0) {
