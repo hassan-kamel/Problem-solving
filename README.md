@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1833-find-the-highest-altitude](https://github.com/hassan-kamel/Problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hassan-kamel/Problem-solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/hassan-kamel/Problem-solving/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/hassan-kamel/Problem-solving/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
