@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-kamel/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hassan-kamel/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/hassan-kamel/Problem-solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
