@@ -1,20 +1,16 @@
 function longestConsecutive(nums: number[]): number {
-    const numSet = new Set<number>(nums);
-    let longest = 0;
-
-    for (const num of numSet) {
-        if (!numSet.has(num - 1)) {
-            let currentNum = num;
-            let currentStreak = 1;
-
-            while (numSet.has(currentNum + 1)) {
-                currentNum++;
-                currentStreak++;
+    let sset = new Set(nums);
+    let maxLen = 0;
+    for(let num of sset){
+        // check its start of the sequence
+        if(!sset.has(num-1)){
+            let len = 0;
+            while(sset.has(num+len)){
+                len += 1;
             }
-
-            longest = Math.max(longest, currentStreak);
+            maxLen = Math.max(maxLen, len);
         }
     }
+    return maxLen;
 
-    return longest;
-}
+};
