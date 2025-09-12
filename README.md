@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-kamel/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hassan-kamel/Problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hassan-kamel/Problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/hassan-kamel/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/hassan-kamel/Problem-solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/hassan-kamel/Problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hassan-kamel/Problem-solving/tree/master/0783-search-in-a-binary-search-tree) |
 ## Interactive
