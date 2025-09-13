@@ -1,11 +1,9 @@
 function threeSum(nums: number[]): number[][] {
     nums = nums.sort((a, b) => a - b);
     const result: number[][] = [];
-    const set = new Set<number>();
     nums.forEach((num, idx) => {
-        if (!set.has(num) || num > 0) {
+        if (num > 0 || !(idx > 0 && num == nums[idx - 1])) {
             result.push(...twoSum(nums.slice(idx + 1), -num));
-            set.add(num);
         }
     })
 
