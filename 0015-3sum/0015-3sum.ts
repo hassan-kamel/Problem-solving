@@ -15,23 +15,15 @@ function threeSum(nums: number[]): number[][] {
 function twoSum(nums: number[], target: number): number[][] {
     let i = 0, j = nums.length - 1;
     const result: number[][] = [];
-    const set = new Set<number>();
     while (i < j) {
-        if (set.has(nums[i])) {
-            i++;
-            continue;
-        }
-        else if (set.has(nums[j])) {
-            j--;
-            continue;
-        }
         const sum = nums[i] + nums[j];
         if (sum > target) j--;
         else if (sum < target) i++;
         else {
             result.push([-target, nums[i], nums[j]]);
-            set.add(nums[i]);
-            set.add(nums[j]);
+            while (i < j && nums[i] === nums[i + 1]) i++;
+            while (i < j && nums[j] === nums[j - 1]) j--;
+
             i++;
             j--;
         };
