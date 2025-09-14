@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hassan-kamel/Problem-solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hassan-kamel/Problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-kamel/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hassan-kamel/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-kamel/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hassan-kamel/Problem-solving/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hassan-kamel/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
