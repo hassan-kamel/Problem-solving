@@ -1,8 +1,3 @@
-/**
-
-    eq = min(maxL,maxR) - h[i];
-  */
-
 function trap(heights: number[]): number {
     let trappedWater = 0, maxL = 0;
 
