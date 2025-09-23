@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/hassan-kamel/Problem-solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/hassan-kamel/Problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hassan-kamel/Problem-solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/hassan-kamel/Problem-solving/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
