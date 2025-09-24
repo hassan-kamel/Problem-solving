@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/hassan-kamel/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1127-last-stone-weight](https://github.com/hassan-kamel/Problem-solving/tree/master/1127-last-stone-weight) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hassan-kamel/Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/hassan-kamel/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/hassan-kamel/Problem-solving/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
