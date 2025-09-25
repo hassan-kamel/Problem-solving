@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/hassan-kamel/Problem-solving/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/hassan-kamel/Problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hassan-kamel/Problem-solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/hassan-kamel/Problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hassan-kamel/Problem-solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
