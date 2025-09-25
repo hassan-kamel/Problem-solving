@@ -1,15 +1,12 @@
 function maxOperations(nums: number[], k: number): number {
-    nums.sort((a, b) => a - b);
-
-    let l = 0, r = nums.length - 1, maxO = 0;
-    while (l < r) {
-        let sum = nums[l] + nums[r];
-        if (sum > k) r--;
-        else if (sum < k) l++
-        else {
+    let comp = new Map(), maxO = 0;
+    for (let i = 0; i < nums.length; i++) {
+        if (comp.has(k - nums[i])) {
             maxO++;
-            l++;
-            r--;
+            comp.set(k - nums[i], comp.get(k - nums[i]) - 1)
+            if (comp.get(k - nums[i]) == 0) comp.delete(k - nums[i])
+        } else {
+            comp.set(nums[i], (comp.get(nums[i]) || 0) + 1)
         }
     }
 
