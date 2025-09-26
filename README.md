@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hassan-kamel/Problem-solving/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hassan-kamel/Problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/hassan-kamel/Problem-solving/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hassan-kamel/Problem-solving/tree/master/0155-min-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/hassan-kamel/Problem-solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Tree
 |  |
