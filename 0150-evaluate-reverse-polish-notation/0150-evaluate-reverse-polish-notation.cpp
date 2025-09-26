@@ -1,41 +1,25 @@
+
 class Solution {
 public:
-    int evalRPN(vector<string>& tokens) {
-        stack<string> st;
-
-        for (int i = 0; i < tokens.size(); i++) {
-            if (tokens[i] == "+") {
-                int a = stoi(st.top());
-                st.pop();
-                int b = stoi(st.top());
-                st.pop();
-                st.push(to_string(a + b));
-
-            } else if (tokens[i] == "-") {
-                int a = stoi(st.top());
-                st.pop();
-                int b = stoi(st.top());
-                st.pop();
-                st.push(to_string(b - a));
-
-            } else if (tokens[i] == "*") {
-                int a = stoi(st.top());
-                st.pop();
-                int b = stoi(st.top());
-                st.pop();
-                st.push(to_string(a * b));
-
-            } else if (tokens[i] == "/") {
-                int a = stoi(st.top());
-                st.pop();
-                int b = stoi(st.top());
-                st.pop();
-                st.push(to_string((int)(b / a)));
-
-            } else
-                st.push(tokens[i]);
+    int evalRPN(std::vector<std::string>& tokens) {
+        std::stack<int> stack;
+        
+        for (const std::string& token : tokens) {
+            if (token == "+" || token == "-" || token == "*" || token == "/") {
+                int b = stack.top();
+                stack.pop();
+                int a = stack.top();
+                stack.pop();
+                
+                if (token == "+") stack.push(a + b);
+                else if (token == "-") stack.push(a - b);
+                else if (token == "*") stack.push(a * b);
+                else if (token == "/") stack.push(a / b);
+            } else {
+                // If the token is a number, push it to the stack
+                stack.push(std::stoi(token));
+            }
         }
-
-        return stoi(st.top());
+        return stack.top();
     }
 };
