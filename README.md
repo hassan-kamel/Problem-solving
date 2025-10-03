@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/hassan-kamel/Problem-solving/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/hassan-kamel/Problem-solving/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/hassan-kamel/Problem-solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hassan-kamel/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/hassan-kamel/Problem-solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hassan-kamel/Problem-solving/tree/master/0739-daily-temperatures) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hassan-kamel/Problem-solving/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/hassan-kamel/Problem-solving/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
