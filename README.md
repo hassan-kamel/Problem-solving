@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hassan-kamel/Problem-solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/hassan-kamel/Problem-solving/tree/master/2128-reverse-prefix-of-word) |
 | [2300-construct-string-with-repeat-limit](https://github.com/hassan-kamel/Problem-solving/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/hassan-kamel/Problem-solving/tree/master/0883-car-fleet) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/hassan-kamel/Problem-solving/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hassan-kamel/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2128-reverse-prefix-of-word](https://github.com/hassan-kamel/Problem-solving/tree/master/2128-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
