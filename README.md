@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hassan-kamel/Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
+| [0886-score-of-parentheses](https://github.com/hassan-kamel/Problem-solving/tree/master/0886-score-of-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hassan-kamel/Problem-solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hassan-kamel/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hassan-kamel/Problem-solving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/hassan-kamel/Problem-solving/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/hassan-kamel/Problem-solving/tree/master/0886-score-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hassan-kamel/Problem-solving/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hassan-kamel/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/hassan-kamel/Problem-solving/tree/master/2128-reverse-prefix-of-word) |
