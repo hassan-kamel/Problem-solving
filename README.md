@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/hassan-kamel/Problem-solving/tree/master/1833-find-the-highest-altitude) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hassan-kamel/Problem-solving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hassan-kamel/Problem-solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hassan-kamel/Problem-solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hassan-kamel/Problem-solving/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/hassan-kamel/Problem-solving/tree/master/2128-reverse-prefix-of-word) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hassan-kamel/Problem-solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/hassan-kamel/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hassan-kamel/Problem-solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/hassan-kamel/Problem-solving/tree/master/2331-intersection-of-multiple-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hassan-kamel/Problem-solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/hassan-kamel/Problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hassan-kamel/Problem-solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/hassan-kamel/Problem-solving/tree/master/1046-max-consecutive-ones-iii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hassan-kamel/Problem-solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
